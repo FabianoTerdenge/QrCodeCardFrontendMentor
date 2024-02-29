@@ -14,13 +14,6 @@ body {
     --custom-grayish-blue: hsl(220, 15%, 55%);
     --custom-dark-blue: hsl(218, 44%, 22%);
 
-    .attribution {
-        font-size: 11px;
-        text-align: center;
-    }
-    .attribution a {
-        color: hsl(228, 45%, 44%);
-    }
     font-family: "Outfit", sans-serif;
     display: flex;
     justify-content: center;
